@@ -1,0 +1,369 @@
+2020-11-27 23:18:33 | [INFO]    | Discordia 2.8.4
+2020-11-27 23:18:33 | [INFO]    | Connecting to Discord...
+2020-11-27 23:18:33 | [INFO]    | Authenticated as JBL#3433
+2020-11-27 23:18:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-27 23:18:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-27 23:18:34 | [INFO]    | Shard 0 : Received HELLO
+2020-11-27 23:18:34 | [INFO]    | Shard 0 : Received READY
+2020-11-27 23:24:33 | [INFO]    | Discordia 2.8.4
+2020-11-27 23:24:33 | [INFO]    | Connecting to Discord...
+2020-11-27 23:24:33 | [INFO]    | Authenticated as JBL#3433
+2020-11-27 23:24:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-27 23:24:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-27 23:24:33 | [INFO]    | Shard 0 : Received HELLO
+2020-11-27 23:24:33 | [INFO]    | Shard 0 : Received READY
+2020-11-27 23:29:44 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2020-11-28 20:28:57 | [INFO]    | Discordia 2.8.4
+2020-11-28 20:28:57 | [INFO]    | Connecting to Discord...
+2020-11-28 20:28:57 | [INFO]    | Authenticated as JBL#3433
+2020-11-28 20:28:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-28 20:28:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-28 20:28:58 | [INFO]    | Shard 0 : Received HELLO
+2020-11-28 20:28:58 | [INFO]    | Shard 0 : Received READY
+2020-11-28 20:30:16 | [INFO]    | Discordia 2.8.4
+2020-11-28 20:30:16 | [INFO]    | Connecting to Discord...
+2020-11-28 20:30:16 | [INFO]    | Authenticated as JBL#3433
+2020-11-28 20:30:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-28 20:30:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-28 20:30:16 | [INFO]    | Shard 0 : Received HELLO
+2020-11-28 20:30:17 | [INFO]    | Shard 0 : Received READY
+2020-11-28 20:44:40 | [INFO]    | Discordia 2.8.4
+2020-11-28 20:44:40 | [INFO]    | Connecting to Discord...
+2020-11-28 20:44:40 | [INFO]    | Authenticated as JBL#3433
+2020-11-28 20:44:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-28 20:44:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-28 20:44:40 | [INFO]    | Shard 0 : Received HELLO
+2020-11-28 20:44:40 | [INFO]    | Shard 0 : Received READY
+2020-11-28 20:45:39 | [INFO]    | Discordia 2.8.4
+2020-11-28 20:45:39 | [INFO]    | Connecting to Discord...
+2020-11-28 20:45:40 | [INFO]    | Authenticated as JBL#3433
+2020-11-28 20:45:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-28 20:45:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-28 20:45:40 | [INFO]    | Shard 0 : Received HELLO
+2020-11-28 20:45:40 | [INFO]    | Shard 0 : Received READY
+2020-11-28 20:50:04 | [INFO]    | Discordia 2.8.4
+2020-11-28 20:50:04 | [INFO]    | Connecting to Discord...
+2020-11-28 20:50:04 | [INFO]    | Authenticated as JBL#3433
+2020-11-28 20:50:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-28 20:50:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-28 20:50:04 | [INFO]    | Shard 0 : Received HELLO
+2020-11-28 20:50:04 | [INFO]    | Shard 0 : Received READY
+2020-11-28 20:57:59 | [INFO]    | Discordia 2.8.4
+2020-11-28 20:57:59 | [INFO]    | Connecting to Discord...
+2020-11-28 20:58:00 | [INFO]    | Authenticated as JBL#3433
+2020-11-28 20:58:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-28 20:58:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-28 20:58:00 | [INFO]    | Shard 0 : Received HELLO
+2020-11-28 20:58:00 | [INFO]    | Shard 0 : Received READY
+2020-11-28 21:07:06 | [INFO]    | Discordia 2.8.4
+2020-11-28 21:07:06 | [INFO]    | Connecting to Discord...
+2020-11-28 21:07:07 | [INFO]    | Authenticated as JBL#3433
+2020-11-28 21:07:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-28 21:07:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-28 21:07:08 | [INFO]    | Shard 0 : Received HELLO
+2020-11-28 21:07:08 | [INFO]    | Shard 0 : Received READY
+2020-12-06 17:29:48 | [INFO]    | Discordia 2.8.4
+2020-12-06 17:29:48 | [INFO]    | Connecting to Discord...
+2020-12-06 17:29:48 | [INFO]    | Authenticated as JBL#3433
+2020-12-06 17:29:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-06 17:29:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-06 17:29:51 | [INFO]    | Shard 0 : Received HELLO
+2020-12-06 17:29:51 | [INFO]    | Shard 0 : Received READY
+2020-12-14 19:25:23 | [INFO]    | Discordia 2.8.4
+2020-12-14 19:25:23 | [INFO]    | Connecting to Discord...
+2020-12-14 19:25:23 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 19:25:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 19:25:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 19:25:24 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 19:25:24 | [INFO]    | Shard 0 : Received READY
+2020-12-14 19:26:31 | [INFO]    | Discordia 2.8.4
+2020-12-14 19:26:31 | [INFO]    | Connecting to Discord...
+2020-12-14 19:26:32 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 19:26:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 19:26:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 19:26:32 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 19:26:33 | [INFO]    | Shard 0 : Received READY
+2020-12-14 19:52:15 | [INFO]    | Discordia 2.8.4
+2020-12-14 19:52:15 | [INFO]    | Connecting to Discord...
+2020-12-14 19:52:15 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 19:52:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 19:52:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 19:52:15 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 19:52:16 | [INFO]    | Shard 0 : Received READY
+2020-12-14 19:54:10 | [INFO]    | Discordia 2.8.4
+2020-12-14 19:54:10 | [INFO]    | Connecting to Discord...
+2020-12-14 19:54:11 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 19:54:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 19:54:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 19:54:11 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 19:54:11 | [INFO]    | Shard 0 : Received READY
+2020-12-14 19:56:02 | [INFO]    | Discordia 2.8.4
+2020-12-14 19:56:02 | [INFO]    | Connecting to Discord...
+2020-12-14 19:56:02 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 19:56:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 19:56:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 19:56:03 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 19:56:03 | [INFO]    | Shard 0 : Received READY
+2020-12-14 19:59:41 | [INFO]    | Discordia 2.8.4
+2020-12-14 19:59:41 | [INFO]    | Connecting to Discord...
+2020-12-14 19:59:41 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 19:59:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 19:59:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 19:59:42 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 19:59:42 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:02:02 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:02:02 | [INFO]    | Connecting to Discord...
+2020-12-14 20:02:02 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:02:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:02:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:02:03 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:02:03 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:04:26 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:04:26 | [INFO]    | Connecting to Discord...
+2020-12-14 20:04:27 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:04:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:04:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:04:27 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:04:27 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:05:57 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:05:57 | [INFO]    | Connecting to Discord...
+2020-12-14 20:05:57 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:05:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:05:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:05:57 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:05:58 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:15:53 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:15:53 | [INFO]    | Connecting to Discord...
+2020-12-14 20:15:54 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:15:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:15:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:15:54 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:15:54 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:17:09 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2020-12-14 20:17:42 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_DELETE
+2020-12-14 20:26:30 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:26:30 | [INFO]    | Connecting to Discord...
+2020-12-14 20:26:31 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:26:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:26:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:26:31 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:26:31 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:27:30 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:27:30 | [INFO]    | Connecting to Discord...
+2020-12-14 20:27:30 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:27:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:27:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:27:30 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:27:31 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:28:51 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:28:51 | [INFO]    | Connecting to Discord...
+2020-12-14 20:28:52 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:28:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:28:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:28:52 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:28:53 | [INFO]    | Shard 0 : Received READY
+2020-12-14 20:31:34 | [INFO]    | Discordia 2.8.4
+2020-12-14 20:31:34 | [INFO]    | Connecting to Discord...
+2020-12-14 20:31:34 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 20:31:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 20:31:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 20:31:35 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 20:31:35 | [INFO]    | Shard 0 : Received READY
+2020-12-14 21:02:29 | [WARNING] | Shard 0 : Discord has requested a reconnection
+2020-12-14 21:02:29 | [INFO]    | Shard 0 : Disconnected
+2020-12-14 21:02:29 | [INFO]    | Shard 0 : Reconnecting...
+2020-12-14 21:02:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 21:02:30 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 21:02:30 | [INFO]    | Shard 0 : Received RESUMED
+2020-12-14 21:17:43 | [INFO]    | Discordia 2.8.4
+2020-12-14 21:17:43 | [INFO]    | Connecting to Discord...
+2020-12-14 21:17:43 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 21:17:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 21:17:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 21:17:44 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 21:17:45 | [INFO]    | Shard 0 : Received READY
+2020-12-14 21:30:58 | [INFO]    | Shard 0 : Disconnected
+2020-12-14 21:30:58 | [INFO]    | Shard 0 : Reconnecting after 979 ms...
+2020-12-14 21:30:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 21:30:59 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 21:30:59 | [INFO]    | Shard 0 : Received RESUMED
+2020-12-14 22:10:40 | [INFO]    | Discordia 2.8.4
+2020-12-14 22:10:40 | [INFO]    | Connecting to Discord...
+2020-12-14 22:10:41 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 22:10:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 22:10:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 22:10:41 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 22:10:41 | [INFO]    | Shard 0 : Received READY
+2020-12-14 22:11:22 | [INFO]    | Discordia 2.8.4
+2020-12-14 22:11:22 | [INFO]    | Connecting to Discord...
+2020-12-14 22:11:22 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 22:11:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 22:11:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 22:11:23 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 22:11:23 | [INFO]    | Shard 0 : Received READY
+2020-12-14 22:12:19 | [INFO]    | Discordia 2.8.4
+2020-12-14 22:12:19 | [INFO]    | Connecting to Discord...
+2020-12-14 22:12:19 | [INFO]    | Authenticated as JBL#3433
+2020-12-14 22:12:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-14 22:12:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-14 22:12:19 | [INFO]    | Shard 0 : Received HELLO
+2020-12-14 22:12:20 | [INFO]    | Shard 0 : Received READY
+2020-12-14 22:36:18 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+2020-12-15 08:53:05 | [INFO]    | Discordia 2.8.4
+2020-12-15 08:53:05 | [INFO]    | Connecting to Discord...
+2020-12-15 08:53:06 | [INFO]    | Authenticated as JBL#3433
+2020-12-15 08:53:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-15 08:53:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-15 08:53:06 | [INFO]    | Shard 0 : Received HELLO
+2020-12-15 08:53:06 | [INFO]    | Shard 0 : Received READY
+2020-12-15 10:43:33 | [INFO]    | Discordia 2.8.4
+2020-12-15 10:43:33 | [INFO]    | Connecting to Discord...
+2020-12-15 10:43:36 | [INFO]    | Authenticated as JBL#3433
+2020-12-15 10:43:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-15 10:43:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-15 10:43:36 | [INFO]    | Shard 0 : Received HELLO
+2020-12-15 10:43:37 | [INFO]    | Shard 0 : Received READY
+2020-12-15 11:36:49 | [INFO]    | Discordia 2.8.4
+2020-12-15 11:36:49 | [INFO]    | Connecting to Discord...
+2020-12-15 11:36:49 | [INFO]    | Authenticated as JBL#3433
+2020-12-15 11:36:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-15 11:36:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-15 11:36:49 | [INFO]    | Shard 0 : Received HELLO
+2020-12-15 11:36:50 | [INFO]    | Shard 0 : Received READY
+2020-12-15 11:37:26 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v7/guilds/781998380250824734/members/693101723505655869/roles/785197868012797952
+2020-12-15 11:46:48 | [INFO]    | Discordia 2.8.4
+2020-12-15 11:46:48 | [INFO]    | Connecting to Discord...
+2020-12-15 11:46:51 | [INFO]    | Authenticated as JBL#3433
+2020-12-15 11:46:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-12-15 11:46:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-12-15 11:46:51 | [INFO]    | Shard 0 : Received HELLO
+2020-12-15 11:46:52 | [INFO]    | Shard 0 : Received READY
+2021-01-18 18:49:09 | [INFO]    | Discordia 2.8.4
+2021-01-18 18:49:09 | [INFO]    | Connecting to Discord...
+2021-01-18 18:49:10 | [INFO]    | Authenticated as JBL#3433
+2021-01-18 18:49:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-18 18:49:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-18 18:49:10 | [INFO]    | Shard 0 : Received HELLO
+2021-01-18 18:49:11 | [INFO]    | Shard 0 : Received READY
+2021-01-18 18:51:21 | [INFO]    | Discordia 2.8.4
+2021-01-18 18:51:21 | [INFO]    | Connecting to Discord...
+2021-01-18 18:51:22 | [INFO]    | Authenticated as JBL#3433
+2021-01-18 18:51:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-18 18:51:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-18 18:51:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-18 18:51:22 | [INFO]    | Shard 0 : Received READY
+2021-01-21 14:47:16 | [INFO]    | Discordia 2.8.4
+2021-01-21 14:47:16 | [INFO]    | Connecting to Discord...
+2021-01-21 14:47:16 | [INFO]    | Authenticated as JBL#3433
+2021-01-21 14:47:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 14:47:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 14:47:17 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 14:47:17 | [INFO]    | Shard 0 : Received READY
+2021-01-21 14:54:19 | [INFO]    | Discordia 2.8.4
+2021-01-21 14:54:19 | [INFO]    | Connecting to Discord...
+2021-01-21 14:54:20 | [INFO]    | Authenticated as JBL#3433
+2021-01-21 14:54:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-21 14:54:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-21 14:54:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-21 14:54:20 | [INFO]    | Shard 0 : Received READY
+2021-01-25 09:45:22 | [INFO]    | Discordia 2.8.4
+2021-01-25 09:45:22 | [INFO]    | Connecting to Discord...
+2021-01-25 09:45:22 | [INFO]    | Authenticated as JBL#3433
+2021-01-25 09:45:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-25 09:45:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-25 09:45:23 | [INFO]    | Shard 0 : Received HELLO
+2021-01-25 09:45:24 | [INFO]    | Shard 0 : Received READY
+2021-02-08 08:45:37 | [INFO]    | Discordia 2.8.4
+2021-02-08 08:45:37 | [INFO]    | Connecting to Discord...
+2021-02-08 08:45:38 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 08:45:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 08:45:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 08:45:40 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 08:45:40 | [INFO]    | Shard 0 : Received READY
+2021-02-08 08:58:49 | [INFO]    | Discordia 2.8.4
+2021-02-08 08:58:49 | [INFO]    | Connecting to Discord...
+2021-02-08 08:58:49 | [INFO]    | Discordia 2.8.4
+2021-02-08 08:58:49 | [INFO]    | Connecting to Discord...
+2021-02-08 08:58:49 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 08:58:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 08:58:49 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 08:58:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 08:58:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 08:58:49 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 08:58:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 08:58:49 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 08:58:50 | [INFO]    | Shard 0 : Received READY
+2021-02-08 09:00:44 | [INFO]    | Discordia 2.8.4
+2021-02-08 09:00:44 | [INFO]    | Connecting to Discord...
+2021-02-08 09:00:44 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 09:00:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 09:00:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 09:00:44 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 09:00:44 | [INFO]    | Shard 0 : Received READY
+2021-02-08 09:03:44 | [INFO]    | Discordia 2.8.4
+2021-02-08 09:03:44 | [INFO]    | Connecting to Discord...
+2021-02-08 09:03:44 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 09:03:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 09:03:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 09:03:44 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 09:03:45 | [INFO]    | Shard 0 : Received READY
+2021-02-08 09:07:34 | [INFO]    | Discordia 2.8.4
+2021-02-08 09:07:34 | [INFO]    | Connecting to Discord...
+2021-02-08 09:07:35 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 09:07:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 09:07:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 09:07:35 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 09:07:35 | [INFO]    | Shard 0 : Received READY
+2021-02-08 09:08:24 | [INFO]    | Discordia 2.8.4
+2021-02-08 09:08:24 | [INFO]    | Connecting to Discord...
+2021-02-08 09:08:24 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 09:08:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 09:08:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 09:08:24 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 09:08:24 | [INFO]    | Shard 0 : Received READY
+2021-02-08 09:09:14 | [INFO]    | Discordia 2.8.4
+2021-02-08 09:09:14 | [INFO]    | Connecting to Discord...
+2021-02-08 09:09:15 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 09:09:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 09:09:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 09:09:15 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 09:09:15 | [INFO]    | Shard 0 : Received READY
+2021-02-08 09:12:47 | [INFO]    | Discordia 2.8.4
+2021-02-08 09:12:47 | [INFO]    | Connecting to Discord...
+2021-02-08 09:12:47 | [INFO]    | Authenticated as JBL#3433
+2021-02-08 09:12:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-08 09:12:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-08 09:12:48 | [INFO]    | Shard 0 : Received HELLO
+2021-02-08 09:12:48 | [INFO]    | Shard 0 : Received READY
+2021-02-13 23:00:08 | [INFO]    | Discordia 2.8.4
+2021-02-13 23:00:08 | [INFO]    | Connecting to Discord...
+2021-02-13 23:00:08 | [INFO]    | Authenticated as JBL#3433
+2021-02-13 23:00:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-02-13 23:00:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-02-13 23:00:09 | [INFO]    | Shard 0 : Received HELLO
+2021-02-13 23:00:09 | [INFO]    | Shard 0 : Received READY
+2021-03-02 10:26:15 | [INFO]    | Discordia 2.8.4
+2021-03-02 10:26:15 | [INFO]    | Connecting to Discord...
+2021-03-02 10:26:15 | [INFO]    | Authenticated as JBL#3433
+2021-03-02 10:26:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-03-02 10:26:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-03-02 10:26:16 | [INFO]    | Shard 0 : Received HELLO
+2021-03-02 10:26:16 | [INFO]    | Shard 0 : Received READY
+2021-03-28 20:44:07 | [INFO]    | Discordia 2.8.4
+2021-03-28 20:44:07 | [INFO]    | Connecting to Discord...
+2021-03-28 20:44:08 | [INFO]    | Authenticated as JBL#3433
+2021-03-28 20:44:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-03-28 20:44:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-03-28 20:44:09 | [INFO]    | Shard 0 : Received HELLO
+2021-03-28 20:44:09 | [INFO]    | Shard 0 : Received READY
+2021-05-13 12:53:03 | [INFO]    | Discordia 2.8.4
+2021-05-13 12:53:03 | [INFO]    | Connecting to Discord...
+2021-05-13 12:53:03 | [INFO]    | Authenticated as JBL#3433
+2021-05-13 12:53:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-13 12:53:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-13 12:53:04 | [INFO]    | Shard 0 : Received HELLO
+2021-05-13 12:53:04 | [INFO]    | Shard 0 : Received READY
+2024-01-25 18:21:14 | [INFO]    | Discordia 2.8.4
+2024-01-25 18:21:14 | [INFO]    | Connecting to Discord...
+2024-01-25 18:21:14 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2024-01-25 18:21:14 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized

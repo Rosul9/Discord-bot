@@ -1,0 +1,20 @@
+local discordia = require('discordia')
+local client = discordia.Client()
+
+client:on('ready', function()
+	print('Logged in as '.. client.user.username)
+end)
+
+client:on('messageCreate', function(message)
+	if message.content == 'B!help' then
+		message.channel:send('Pomoc\n--------\nPing, Pong! - B!ping\n--------')
+	end
+end)
+
+client:on('messageCreate', function(message)
+	if message.content == 'B!ping' then
+		message.channel:send('Pong!')
+	end
+end)
+
+client:run('Bot NzgyMDAxMjkzNTQ3NDA1MzMy.X8F1dQ.ZzvrmzUhxaPzEQBPtvqQBj1IXDg')
